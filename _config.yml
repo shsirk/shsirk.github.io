@@ -1,8 +1,7 @@
 title: shsirk's notes
-author: mostly programming and security
+author: security researcher
 description: > # this means to ignore newlines until "show_excerpts:"
-  shsirk's random notes and rants on programming/security, done mostly on fuzzing, reverse
-  engineering, vulnerabilty research domain. 
+  random notes and rants on programming/security. 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
