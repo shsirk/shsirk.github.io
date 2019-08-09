@@ -1,6 +1,6 @@
 title: shsirk's notes
 author: Computer Programmin and Security
-email: krishs.patil@gmail.com
+email: shsirk.p@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   shsirk's random notes and rants on programming/security, done mostly on fuzzing, reverse
   engineering, vulnerabilty research domain. 
@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: shsirk
+    github:  shsirk
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
